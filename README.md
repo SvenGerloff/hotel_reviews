@@ -4,6 +4,7 @@
 - Sven Gerloff
 - Bakir Bajrovic 
 
+## Project description 
 In this project, we created an interactive application using Python and Streamlit. The purpose of our app is to analyze 
 hotel reviews using WordClouds to identify differences in the most common words between positive and negative reviews. 
 To facilitate deeper analysis, we incorporated two sliders. These sliders allow users to filter hotels based on their 
